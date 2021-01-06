@@ -7,9 +7,9 @@
 
 
 // Bibliotheken:
-#include <ESP32Servo.h>
-#include <Adafruit_GFX.h>
-#include <Adafruit_SSD1306.h>
+#include <ESP32Servo.h>                                                     // Version 0.6.2
+#include <Adafruit_GFX.h>                                                   // Version 1.10.4
+#include <Adafruit_SSD1306.h>                                               // Version 2.4.2
 #include <Wire.h>
 
 // Anschlüsse:
